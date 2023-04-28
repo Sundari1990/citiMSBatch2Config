@@ -2,10 +2,7 @@ server:
   port: 9090
 
 
-spring:
-  #application:
-  #  name: API-GATEWAY
- 
+spring: 
   cloud:
     gateway:
       routes:
